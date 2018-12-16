@@ -1,10 +1,9 @@
 Piece of Eight integration/staging tree
 ================================
 
-http://www.piece of eight.org
-
 Copyright (c) 2009-2014 Bitcoin Developers
-Copyright (c) 2011-2014 Piece of Eight Developers
+Copyright (c) 2011-2014 Litecoin Developers
+Copyright (c) 2018 Piece of Eight Developers
 
 What is Piece of Eight?
 ----------------
@@ -18,8 +17,6 @@ The rest is the same as Bitcoin.
  - 50 coins per block
  - 2016 blocks to retarget difficulty
 
-For more information, as well as an immediately useable, binary version of
-the Piece of Eight client sofware, see http://www.piece of eight.org.
 
 License
 -------
@@ -44,9 +41,6 @@ Developers should expect to rework and resubmit patches if the code doesn't
 match the project's coding conventions (see `doc/coding.txt`) or are
 controversial.
 
-The `master` branch is regularly built and tested, but is not guaranteed to be
-completely stable. [Tags](https://github.com/piece of eight-project/piece of eight/tags) are created
-regularly to indicate new official, stable release versions of Piece of Eight.
 
 Testing
 -------
