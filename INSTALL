@@ -1,0 +1,9 @@
+Building Piece of Eight
+
+See doc/readme-qt.rst for instructions on building Piece of Eight-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Piece of Eight.
+
+See doc/build-*.txt for instructions on building piece of eightd,
+the intended-for-services, no-graphical-interface, reference
+implementation of Piece of Eight.
